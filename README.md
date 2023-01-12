@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Jiyan DAG</h1>
 <h3 align="center">Front/back web dev from France</h3>
 
