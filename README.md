@@ -1,6 +1,6 @@
 preview
 <h1 align="center">Hi 👋, I'm Jiyan DAG</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on [The Hacking Project](https://www.thehackingproject.org/)
 
