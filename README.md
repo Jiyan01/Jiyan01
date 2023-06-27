@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jiyan DAG</h1>
 <h3 align="center">Front/back web dev from France</h3>
 
-- 🔭 I’m currently working on [The Hacking Project](https://www.thehackingproject.org/)
+- 🔭 I’m currently searching for job
 
-- 🌱 I’m currently learning **Rails, JavaScript, React**
+- 🌱 I’m currently learning **Rails, JavaScript, React.js, Next.js, Redux and Headless CMS like MongoDB**
 
 - 📫 How to reach me **jiyandag@gmail.com**
 
